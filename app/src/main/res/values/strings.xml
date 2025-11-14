@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">Cazar Gatos</string>
+    <string name="app_name" translatable="false">Cat Hunter</string>
+    <string name="hint_email" translatable="false">Enter your email</string>
+    <string name="hint_password" translatable="false">Enter your password</string>
+    <string name="text_remember_me" translatable="false">Remember me</string>
+    <string name="text_start_game" translatable="false">Start game</string>
+    <string name="text_new_user" translatable="false">New user</string>
+    <string name="error_email_required" translatable="false">Email is required</string>
+    <string name="error_password_required" translatable="false">Password is required</string>
+    <string name="error_password_min_length" translatable="false">The password must have at least characters</string>
+
+    <string name="dialog_title_game_end" translatable="false">End of the game</string>
+    <string name="dialog_message_congratulations" translatable="false">Congratulations!!\nYou hunted %1$d ducks</string>
+    <string name="button_restart" translatable="false">Restart</string>
+    <string name="button_close" translatable="false">Close</string>
+
 </resources>
